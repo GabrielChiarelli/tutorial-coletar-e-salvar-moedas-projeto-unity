@@ -1,0 +1,7 @@
+Sprites usados neste tutorial:
+
+Imagem de Fundo / Casa / Piso: Sunny Land (por ansumuz) -- https://ansimuz.itch.io/sunny-land-pixel-game-art
+
+Moeda: Animated pixel coins (por TotusLotus ) -- https://totuslotus.itch.io/pixel-coins
+
+Personagem: Sprite Pack 4 (por GrafxKid) -- https://grafxkid.itch.io/sprite-pack-4
